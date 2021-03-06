@@ -30,7 +30,9 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-https:"Simpletweet.gif"
+`TODO://``Simpletweet.gif`. 
+
+<img src="Simpletweet.gif" width=250><br>
 
 Here's a walkthrough of implemented user stories:
 
